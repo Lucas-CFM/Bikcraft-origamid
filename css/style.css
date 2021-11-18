@@ -183,7 +183,10 @@ img{
 }
 .produtos-lista li{
     background:#fec63e;
-    text-align:center;
+    text-align: center;
+}
+.produtos-lista li img{
+    margin:0 auto;
 }
 .produtos-lista li h3{
     font-weight: bold;
